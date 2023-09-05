@@ -1,0 +1,15 @@
+{
+  "name": "clase1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:app-I": "node app.js",
+      "start:app-index": "node index.js",
+      "start:app-indexciaf": "node indexciaf.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
